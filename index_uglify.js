@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
   var parser = require('uglify-js');
   var fs = require('fs');
   var filename = process.argv[2];

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 var a = 1,
 b;
 c = 2, d = 3, b = 4;

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /**
  * Created by Pankajan on 18/04/2016.
  */
